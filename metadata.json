@@ -1,0 +1,6 @@
+{
+  "name": "LibraRyan",
+  "description": "LibraRyan — Sistem manajemen perpustakaan digital berbasis web dengan peminjaman buku, manajemen koleksi, pelaporan otomatis, serta dashboard Admin dan Member.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
